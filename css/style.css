@@ -1,0 +1,214 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.cootels {
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.navbar {
+  align-items: center;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  gap: 340px;
+  display: flex;
+}
+
+.navbar .orta ul {
+  gap: 32px;
+  list-style: none;
+  display: flex;
+}
+
+.navbar .geet {
+  font-size: 16px;
+  color: white;
+  background-color: #0E1734;
+  border-radius: 4px;
+  padding: 7px 8px;
+}
+
+main {
+  margin-left: 121px;
+  margin-top: 250px;
+  font-family: "Montserrat", sans-serif;
+}
+
+main .box4 {
+  display: flex;
+}
+
+main .bir {
+  font-size: 30px;
+}
+
+main .eki {
+  margin-right: 126px;
+  margin-top: 24px;
+  margin-bottom: 32px;
+  font-size: 18px;
+  color: gray;
+}
+
+main .ush {
+  font-size: 16px;
+  color: white;
+  background-color: #0E1734;
+  border-radius: 4px;
+  padding: 7px 8px;
+}
+
+main .photo {
+  margin-top: -200px;
+  display: flex;
+  gap: 24px;
+}
+
+main .box2 {
+  margin-top: 81px;
+}
+
+.photo2 {
+  margin-top: 257px;
+  display: flex;
+}
+
+.photo2 .cozy {
+  margin-left: 126px;
+  margin-top: 162px;
+  font-size: 30px;
+}
+
+.photo2 .cozy1 {
+  margin-bottom: 24px;
+}
+
+.photo2 .our {
+  font-size: 18px;
+  color: gray;
+  margin-bottom: 16px;
+}
+
+.photo2 .cootels1 {
+  font-size: 18px;
+  color: gray;
+  margin-bottom: 32px;
+}
+
+.photo2 .learn {
+  font-size: 16px;
+  color: white;
+  background-color: #0E1734;
+  border-radius: 4px;
+  padding: 7px 8px;
+}
+
+.obshy {
+  display: flex;
+}
+
+.obshy .text1 {
+  margin-right: 126px;
+  margin-top: 273px;
+}
+
+.obshy .texts {
+  margin-bottom: 24px;
+}
+
+.obshy .pick {
+  font-size: 18px;
+  color: gray;
+  margin-bottom: 32px;
+}
+
+.obshy .photol {
+  margin-top: 160px;
+}
+
+.photosl {
+  display: flex;
+  margin-top: 32px;
+}
+
+.photosl .text22 {
+  margin-top: 145px;
+  margin-left: 126px;
+}
+
+.photosl .we {
+  margin-top: 24px;
+  font-size: 18px;
+  color: gray;
+}
+
+.any {
+  margin-top: 238px;
+  text-align: center;
+}
+
+.any .there {
+  margin-top: 24px;
+  font-size: 18px;
+  color: gray;
+}
+
+.any .kaka {
+  margin-top: 32px;
+  font-size: 16px;
+  color: white;
+  background-color: #0E1734;
+  border-radius: 4px;
+  padding: 7px 8px;
+}
+
+.phto img {
+  margin-left: 20px;
+  margin-top: 200px;
+  margin-right: 30px;
+}
+
+.fdfd {
+  gap: 50px;
+  display: flex;
+}
+
+.fdfd .czcz {
+  margin-top: 32px;
+}
+
+.fdfd .gwgw {
+  margin-left: 20px;
+}
+
+.fdfd .gfgf {
+  margin-top: 16px;
+  font-size: 18px;
+  color: gray;
+}
+
+.fdfd .rere {
+  align-items: center;
+  justify-content: center;
+  margin-top: 32px;
+  font-size: 20px;
+  color: gray;
+}
+
+.fdfd .ukuk {
+  margin-right: 12px;
+  gap: 12px;
+  margin-top: 5px;
+  align-items: center;
+  justify-content: center;
+}
+/*# sourceMappingURL=style.css.map */
